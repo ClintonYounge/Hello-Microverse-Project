@@ -49,7 +49,7 @@ Clone this repository to your desired folder using <a href="https://gitforwindow
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Clinton Yougne**
+👤 **Clinton Younge**
 
 - GitHub: [@ClintonYounge](https://github.com/ClintonYounge)
 - Twitter: [@YoungeCjay](https://twitter.com/YoungeCjay)
