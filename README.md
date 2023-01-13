@@ -1,4 +1,12 @@
+# Hello Microverse
+My first project!
 <a name="readme-top"></a>
+
+<div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+  <h3><b>Microverse README Template</b></h3>
+</div>
 
 # 📗 Table of Contents
 
@@ -19,19 +27,22 @@
 **[Hello Microverse]** is the first project to be completed by new Micronauts. It helps with building experience in the use of Linter, GitHub flow, and documentation.
 
 ## 🛠 Built With <a name="built-with"></a>
--Stylint
--Webhint
--Technologies used
+> This Porfolio focuses only on `linters` and `.gitignore`. No JS or Server are included in this repository.
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<ul>
-  <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
-  <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-</ul>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3.org/html/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">SCSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
-- **[Linter]**
+- **Linters**: [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/), [Webhint](https://webhint.io/), and [Stylelint](https://stylelint.io/.)
+- **A `.github/workflows/linters.yml`** file to run linters on GitHub Pull Request.
+- **A** `.gitignore` file including `node_modules/`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,10 +51,27 @@
 > A new developer or learning student could use this as a sample to complete a similar project.
 
 To get a local copy up and running, follow these steps.
+### Prerequisites
+
+In order to run this project you need:
+
+- Have [npm](https://www.npmjs.com/package/npm) installed in your project:
+  `curl -qL https://www.npmjs.com/install.sh | sh`
 
 ### Setup
 
-Clone this repository to your desired folder using <a href="https://gitforwindows.org/">Git</a> or <a href="https://desktop.github.com/">GitHub Desktop</a>
+Clone this repository to your desired folder:
+
+`git clone git remote add origin https://github.com/ClintonYounge/My-Portfolio-Project`
+
+or
+
+`git clone git remote add origin https://github.com/ClintonYounge/Hello-Microverse-Project` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+
+or
+
+Utilizing Github Desktop. A simple interface, thats powerful enough to simplify this process.
+https://desktop.github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,6 +102,8 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my standup team for help settling my mind to persevere through this project.
+
+I also want to thank to my Brother *Charles Gardimy* for his help, advice and encouragement to press onward through the tough times.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
